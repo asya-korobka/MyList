@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MyList</string>
+    <string name="add_item_label">Назва товару</string>
+    <string name="add_button_text">Додати</string>
+    <string name="edit">Редагувати</string>
+    <string name="delete">Видалити</string>
+    <string name="bought_count">Куплено: %1$d</string>
+    <string name="save">Зберегти</string>
+    <string name="cancel">Скасувати</string>
+    <string name="edit_item">Редагування товару</string>
+    <string name="new_name">Нова назва</string>
+</resources>
